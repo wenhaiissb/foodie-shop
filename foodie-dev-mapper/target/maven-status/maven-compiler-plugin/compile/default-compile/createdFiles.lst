@@ -1,0 +1,14 @@
+com\wenhai\mapper\ItemsParamMapper.class
+com\wenhai\mapper\ItemsSpecMapper.class
+com\wenhai\mapper\OrderStatusMapper.class
+com\wenhai\mapper\CarouselMapper.class
+com\wenhai\mapper\OrderItemsMapper.class
+com\wenhai\mapper\OrdersMapper.class
+com\wenhai\mapper\CategoryMapper.class
+com\wenhai\mapper\ItemsImgMapper.class
+com\wenhai\mapper\ItemsCommentsMapper.class
+com\wenhai\mapper\UserAddressMapper.class
+com\wenhai\mapper\CategoryCustomMapper.class
+com\wenhai\mapper\ItemsMapper.class
+com\wenhai\mapper\UsersMapper.class
+com\wenhai\base\mapper\BaseMapper.class

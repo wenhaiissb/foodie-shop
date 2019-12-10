@@ -1,0 +1,4 @@
+com\wenhai\foodie\service\IUserService.class
+com\wenhai\foodie\service\ICarouselService.class
+com\wenhai\foodie\service\impl\UserServiceImpl.class
+com\wenhai\foodie\service\impl\CarouselServiceImpl.class

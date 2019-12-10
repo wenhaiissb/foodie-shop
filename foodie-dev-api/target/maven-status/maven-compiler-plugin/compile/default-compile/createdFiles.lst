@@ -1,0 +1,4 @@
+com\wenhai\foodie\config\Swagger2Config.class
+com\wenhai\foodie\bootstrap\ApiBootstrap.class
+com\wenhai\foodie\aspect\ServiceLoggerAspect.class
+com\wenhai\foodie\controller\PassportController.class

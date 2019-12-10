@@ -1,0 +1,15 @@
+com\wenhai\pojo\OrderItems.class
+com\wenhai\pojo\OrderStatus.class
+com\wenhai\pojo\vo\CategoryVO.class
+com\wenhai\pojo\Users.class
+com\wenhai\pojo\Items.class
+com\wenhai\pojo\ItemsComments.class
+com\wenhai\pojo\ItemsImg.class
+com\wenhai\pojo\bo\UserBO.class
+com\wenhai\pojo\Carousel.class
+com\wenhai\pojo\Category.class
+com\wenhai\pojo\Orders.class
+com\wenhai\pojo\vo\CategorySubVO.class
+com\wenhai\pojo\UserAddress.class
+com\wenhai\pojo\ItemsParam.class
+com\wenhai\pojo\ItemsSpec.class
